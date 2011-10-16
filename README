@@ -1,0 +1,5 @@
+This Project was my final project for UCSD Extensions Java 3 course.
+
+I have since finished the entire UCSD Extension Java Certificate. But most of the code from Java IV was not totally my creation.
+
+For this project we were asked to make a inventory management system in different stages throughout the course. First was a console based interaction, then a gui based with a simple properties based export method, then finally this one that interacted with a mysql server using JDBC. 
